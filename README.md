@@ -17,3 +17,5 @@ The pipelines are generic as they source the `last_build.ps1`/`last_build.env` f
 ## Usage
 
 To consume these pipelines, copy the appropriate `yml` file from this repository into the root of your project. See my [Wildfly](https://github.com/jmassardo/wildfly) repo for an example. The Habitat extension expects the hab specific components to be in a `habitat/` subdirectory within your project.
+
+For a step-by-step walk-through on setting up Azure DevOps pipelines, check out this [blog post](http://www.dxrf.com/blog/2019/09/27/Habitat-Pipelines-in-Azure-DevOps/).
