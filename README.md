@@ -1,3 +1,6 @@
+NOTICE: The contents of this repo was merged into [chef-cft/chef-examples](https://github.com/chef-cft/chef-examples/blob/master/examples/pipelines/PipelineOverview.md). This repo is archived.
+
+
 # Azure DevOps pipelines for Habitat packages
 
 ## Introduction
